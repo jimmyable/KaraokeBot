@@ -8,7 +8,7 @@ Song Requests can be entered [here](https://forms.gle/KGRwkUqnQywJEXmi9)
 ## This Process has two main Pieces
 
 ### DispatcherBot
-- Scrape data from Google Forms for Song, and Singer Name from [here](https://docs.google.com/forms/d/1a07MoJb2u9udNp5TFb_uP-d0ocRSelcYF0muXCBiKSM/edit?usp=sharing)
+- Scrape data from Google Forms for Song, and Singer Name from [here](https://docs.google.com/forms/d/1a07MoJb2u9udNp5TFb_uP-d0ocRSelcYF0muXCBiKSM/edit#responses)
 - Upload it to a an Orchestrator Queue called `Song_Queue`
 
 
