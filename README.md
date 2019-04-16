@@ -13,6 +13,9 @@ Song Requests can be entered [here](https://forms.gle/KGRwkUqnQywJEXmi9)
 
 
 ### Main
+
+#### Init
+
 - Open `iexplore.exe` and Navigate to YouTube
 - Open `WINWORD.exe` and open a blank Document and TypeAndSpeak the welcome message
 
