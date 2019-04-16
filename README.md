@@ -19,14 +19,18 @@ Song Requests can be entered [here](https://forms.gle/KGRwkUqnQywJEXmi9)
 - Open `iexplore.exe` and Navigate to YouTube
 - Open `WINWORD.exe` and open a blank Document and TypeAndSpeak the welcome message
 
+#### Get Transaction
 - Get each transaction item(Song/Singer Name)
 
+#### Process
 - TypeAndSpeak *Round_number*, *Song_Name*, *Singer*
 - Navigate to Youtube and load the corresponding Karaoke song
 - Fullscreen the video, skip all ads and wait for video finish(appearance of the `Replay` button)
 
 - TypeAndSpeak "Rate Performance", with a input dialog
 - Scores are send to Orchestrator Queue `Score_List`
+
+#### End Process
 
 - End Process by retriveing `Score_List` and identifying the Winner using highest score
 - Navigate to Google Images, search for an acceptable song cover photo
